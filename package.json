@@ -1,0 +1,30 @@
+{
+  "name": "prpl-ce-firebase",
+  "version": "1.0.0",
+  "description": "These are the resource files needed for the [PRPL with Custom Elements and Firebase](https://codelabs.developers.google.com/codelabs/prpl-ce-firebase/) codelab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "firebase": "firebase",
+    "workbox": "workbox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymerLabs/prpl-ce-firebase.git"
+  },
+  "keywords": [
+    "prpl",
+    "custom-elements",
+    "firebase"
+  ],
+  "author": "Masashi Hirano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolymerLabs/prpl-ce-firebase/issues"
+  },
+  "homepage": "https://github.com/PolymerLabs/prpl-ce-firebase#readme",
+  "devDependencies": {
+    "firebase-tools": "^3.18.5",
+    "workbox-cli": "^3.2.0"
+  }
+}

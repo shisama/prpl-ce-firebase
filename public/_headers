@@ -1,0 +1,8 @@
+/
+  Link: </elements/my-app.js>;rel=preload;as=script
+  Link: </style.css>;rel=preload;as=style,</elements/list-view.js>;rel=preload;as=script
+  Link: </data/list.json>;rel=preload;as=fetch
+/detail/*
+  Link: </elements/my-app.js>;rel=preload;as=script
+  Link: </style.css>;rel=preload;as=style
+  Link: </elements/detail-view.js>;rel=preload;as=script
